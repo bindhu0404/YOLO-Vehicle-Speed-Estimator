@@ -22,3 +22,13 @@ This project uses YOLOv10 for real-time car and truck detection and speed estima
 -Speed is estimated based on the movement over time.
 
 -Annotated video output is displayed with bounding boxes and speed labels.
+
+# Tech Stack
+
+Python 
+
+OpenCV (for video processing and annotation)
+
+YOLOv10 (for object detection and tracking)
+
+NumPy (for numerical computations)

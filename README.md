@@ -3,7 +3,7 @@ This project uses YOLOv10 for real-time car and truck detection and speed estima
 
 # Features
 
--Real-time vehicle detection and tracking
+-Real-time detection and tracking of cars & trucks using YOLOv10
 
 -Speed estimation using object movement across frames
 
